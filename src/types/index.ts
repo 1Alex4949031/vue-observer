@@ -1,0 +1,1 @@
+export type ObserverCallback<T> = (data: T) => void;
